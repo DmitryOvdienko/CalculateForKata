@@ -71,7 +71,7 @@ public class Main {
                 }
                 System.out.println("Output");
                 String res = " " + result;
-                return (res);
+                return res;
             }
         }
 
@@ -100,7 +100,7 @@ public class Main {
                 }
                 String rimResult = arrayRomanians[result].name();
                 System.out.println("Output");
-                return (rimResult);
+                return rimResult;
             }
         }
         return str;
